@@ -3,6 +3,6 @@ expect = chai.expect;
 
 describe('#test', function(){
     it('should fail', function(){
-        expect('hello').to.equal('hello1');
+        expect('hello').to.equal('hello');
     });
 });
